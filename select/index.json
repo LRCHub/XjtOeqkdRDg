@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "TASTY",
+  "base_artist": "Takanashi Kiara",
+  "createdAt": "2025-12-28T08:38:12.849958Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "TASTY",
+      "artist": "Shygirl",
+      "has_synced": true,
+      "path": "select/01_TASTY_Shygirl.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tasty Boy",
+      "artist": "Those Dancing Days",
+      "has_synced": false,
+      "path": "select/02_Tasty_Boy_Those_Dancing_Days.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'm So Glad (BBC Chris Grant's Tasty Pop Sundae Session)",
+      "artist": "Deep Purple",
+      "has_synced": false,
+      "path": "select/03_I'm_So_Glad_(BBC_Chris_Grant's_Tasty_Pop_Sundae_Session)_Deep_Purple.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "STFU (Tasty Treat Remix)",
+      "artist": "Pink Guy",
+      "has_synced": true,
+      "path": "select/04_STFU_(Tasty_Treat_Remix)_Pink_Guy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tasty Mushroom",
+      "artist": "Infected Mushroom",
+      "has_synced": false,
+      "path": "select/05_Tasty_Mushroom_Infected_Mushroom.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Somethin' Else - Live on Tasty Pop Sundae from BBC Sessions;Remaster",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/06_Somethin'_Else_-_Live_on_Tasty_Pop_Sundae_from_BBC_Sessions;Remaster_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Girl I Love She Got Long Black Wavy Hair - Live on Tasty Pop Sundae from BBC Sessions;Remaster",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/07_The_Girl_I_Love_She_Got_Long_Black_Wavy_Hair_-_Live_on_Tasty_Pop_Sundae_from_BBC_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Communication Breakdown - Live on Tasty Pop Sundae from BBC Sessions;Remaster",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/08_Communication_Breakdown_-_Live_on_Tasty_Pop_Sundae_from_BBC_Sessions;Remaster_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "What Is and What Should Never Be - Live on Tasty Pop Sundae from BBC Sessions;Remaster",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/09_What_Is_and_What_Should_Never_Be_-_Live_on_Tasty_Pop_Sundae_from_BBC_Sessions;Re_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tasty",
+      "artist": "Good Rats",
+      "has_synced": false,
+      "path": "select/10_Tasty_Good_Rats.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tasty",
+      "artist": "Good Rats",
+      "has_synced": true,
+      "path": "select/11_Tasty_Good_Rats.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tasty",
+      "artist": "DaniLeigh",
+      "has_synced": false,
+      "path": "select/12_Tasty_DaniLeigh.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tasty",
+      "artist": "NCT 127",
+      "has_synced": true,
+      "path": "select/13_Tasty_NCT_127.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tasty Love",
+      "artist": "Freddie Jackson",
+      "has_synced": false,
+      "path": "select/14_Tasty_Love_Freddie_Jackson.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Somethin' Else (Chris Grant's Tasty Pop Sundae: Aeolian Hall, London)",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/15_Somethin'_Else_(Chris_Grant's_Tasty_Pop_Sundae__Aeolian_Hall,_London)_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Girl I Love She Got Long Black Wavy Hair (Chris Grant's Tasty Pop Sundae: Aeolian Hall, London)",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/16_The_Girl_I_Love_She_Got_Long_Black_Wavy_Hair_(Chris_Grant's_Tasty_Pop_Sundae__Ae_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TASTY",
+      "artist": "Takanashi Kiara",
+      "has_synced": false,
+      "path": "select/pl_01_TASTY_Takanashi_Kiara.txt"
+    }
+  ]
+}
